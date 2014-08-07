@@ -1,8 +1,0 @@
-c:\users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\bin\Debug\TheMatrixHasYou.exe
-c:\users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\bin\Debug\TheMatrixHasYou.pdb
-c:\users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Debug\TheMatrixHasYou.csprojResolveAssemblyReference.cache
-c:\users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Debug\TheMatrixHasYou.FormMain.resources
-c:\users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Debug\TheMatrixHasYou.Properties.Resources.resources
-c:\users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Debug\TheMatrixHasYou.csproj.GenerateResource.Cache
-c:\users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Debug\TheMatrixHasYou.exe
-c:\users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Debug\TheMatrixHasYou.pdb
