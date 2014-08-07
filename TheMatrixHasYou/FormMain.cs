@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace TheMatrixHasYou
@@ -17,6 +18,8 @@ namespace TheMatrixHasYou
 
     private void FormMain_Load(object sender, EventArgs e)
     {
+      labelMatrix.ForeColor = Color.Green;
+      labelMatrix.Size = new Size(new Point(14));
       labelMatrix.Text = string.Empty;
       _nombreDeChaineTotal = _texte.Length;
       timer1.Interval = 200;
