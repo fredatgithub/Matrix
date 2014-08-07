@@ -1,0 +1,7 @@
+C:\Users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\bin\Release\TheMatrixHasYou.exe
+C:\Users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\bin\Release\TheMatrixHasYou.pdb
+C:\Users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Release\TheMatrixHasYou.FormMain.resources
+C:\Users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Release\TheMatrixHasYou.Properties.Resources.resources
+C:\Users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Release\TheMatrixHasYou.csproj.GenerateResource.Cache
+C:\Users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Release\TheMatrixHasYou.exe
+C:\Users\fred\documents\visual studio 2012\Projects\TheMatrixHasYou\TheMatrixHasYou\obj\Release\TheMatrixHasYou.pdb
