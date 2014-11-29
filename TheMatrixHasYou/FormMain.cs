@@ -12,9 +12,9 @@ namespace TheMatrixHasYou
     }
 
     private readonly string[] _texte = {"Knock knock Neo..","Wake up Neo....", "The Matrix has you....", "Follow the white rabbit...." };
-    private int _numeroChaine = 0;
+    private int _numeroChaine;
     private int _nombreDeChaineTotal = 0;
-    private int _curseurChaine = 0;
+    private int _curseurChaine;
 
     private void FormMain_Load(object sender, EventArgs e)
     {
