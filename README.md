@@ -12,3 +12,5 @@ The Matrix has you
 [![Linux status] (https://img.shields.io/badge/Linux-none-red.svg)] (https://github.com/fredatgithub/UsefulFunctions#Build Status)
 [![Release status] (https://img.shields.io/badge/Release-none-red.svg)] (https://github.com/fredatgithub/UsefulFunctions#Build Status)
 [![NuGet status] (https://img.shields.io/badge/NuGet-none-red.svg)] (https://github.com/fredatgithub/UsefulFunctions#Build Status)
+
+# Travis https://travis-ci.org/fredatgithub/Matrix.svg?branch=master
