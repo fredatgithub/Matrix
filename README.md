@@ -14,5 +14,4 @@ The Matrix has you
 [![NuGet status] (https://img.shields.io/badge/NuGet-none-red.svg)] (https://github.com/fredatgithub/Matrix#Build Status)
 
 # Travis 
-[![Travis status] (https://travis-ci.org/fredatgithub/Matrix.svg?branch=master)] (https://github.com/fredatgithub/Matrix
-#Travis Status)
+![Travis status] (https://travis-ci.org/fredatgithub/Matrix.svg?branch=master)
