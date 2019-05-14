@@ -11,7 +11,7 @@ namespace TheMatrixHasYou
       InitializeComponent();
     }
 
-    private readonly string[] _texte = {"Knock knock Neo..","Wake up Neo....", "The Matrix has you....", "Follow the white rabbit...." };
+    private readonly string[] _texte = {"Wake up Neo....", "The Matrix has you....", "Follow the white rabbit....", "Knock knock .." };
     private int _numeroChaine;
     private int _nombreDeChaineTotal = 0;
     private int _curseurChaine;
