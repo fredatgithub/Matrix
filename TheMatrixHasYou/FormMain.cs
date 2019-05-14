@@ -11,7 +11,7 @@ namespace TheMatrixHasYou
       InitializeComponent();
     }
 
-    private readonly string[] _texte = {"Wake up Neo....", "The Matrix has you....", "Follow the white rabbit....", "Knock knock .." };
+    private readonly string[] _texte = {"Wake up Neo ....", "The Matrix has you ....", "Follow the white rabbit ....", "Knock knock ...." };
     private int _numeroChaine;
     private int _nombreDeChaineTotal = 0;
     private int _curseurChaine;
@@ -25,7 +25,7 @@ namespace TheMatrixHasYou
       timer1.Interval = 200;
     }
 
-    private void timer1_Tick(object sender, EventArgs e)
+    private void Timer1_Tick(object sender, EventArgs e)
     {
       labelMatrix.Text += _texte[_numeroChaine].Substring(_curseurChaine, 1);
 
